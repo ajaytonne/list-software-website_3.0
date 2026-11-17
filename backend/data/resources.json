@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Blog",
+    "title": "What is a browser-less core banking system?",
+    "summary": "A plain-language introduction for directors and managers."
+  },
+  {
+    "category": "Whitepapers",
+    "title": "Centralized banking: benefits and trade-offs",
+    "summary": "How a single data center changes control, reporting and risk."
+  },
+  {
+    "category": "Compliance updates",
+    "title": "Staying on top of regulatory circulars",
+    "summary": "How CBS configuration supports statutory and regulatory reporting."
+  },
+  {
+    "category": "Product guides",
+    "title": "CUSTODIAN modules at a glance",
+    "summary": "Deposits, loans, NPA, delivery channels and add-on modules."
+  },
+  {
+    "category": "Case studies",
+    "title": "Migrating a co-operative bank to CUSTODIAN",
+    "summary": "Lessons from branch rollout and training."
+  },
+  {
+    "category": "FAQs",
+    "title": "Planning your CBS data migration",
+    "summary": "Questions to ask before you switch core banking vendors."
+  }
+]

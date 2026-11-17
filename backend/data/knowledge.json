@@ -1,0 +1,547 @@
+[
+ {
+  "id": "about",
+  "t": "About LIST",
+  "k": [
+   "about list",
+   "about you",
+   "who are you",
+   "company",
+   "list software",
+   "what do you do",
+   "history",
+   "iso",
+   "certified"
+  ],
+  "a": "LIST Software Pvt. Ltd. is a banking solutions company that combines banking expertise with forward-looking technology to help financial institutions strengthen operations and serve customers with confidence. It is ISO 9001:2015 certified and serves 100+ banks and credit societies.",
+  "f": [
+   "custodian",
+   "modules",
+   "demo"
+  ]
+ },
+ {
+  "id": "custodian",
+  "t": "CUSTODIAN core banking",
+  "k": [
+   "custodian",
+   "cbs",
+   "core banking",
+   "browser-less",
+   "browserless",
+   "browser less"
+  ],
+  "a": "CUSTODIAN is LIST's core banking solution for co-operative banks and credit societies. The application and data sit in a central data center, and branches connect over VPN, RF, MPLS or leased line, so policies, reports and delivery channels are managed centrally. It supports centralized policy operations, head-office parameterization and branch operations with regulatory compliance.",
+  "f": [
+   "corebank",
+   "security",
+   "channels"
+  ]
+ },
+ {
+  "id": "corebank",
+  "t": "Core banking functions",
+  "k": [
+   "deposit",
+   "savings",
+   "fixed",
+   "recurring",
+   "pigmy",
+   "loan",
+   "term loan",
+   "npa",
+   "provision",
+   "accounts"
+  ],
+  "a": "CUSTODIAN covers savings, fixed, recurring and pigmy deposits, term loans, and NPA identification and provisioning.",
+  "f": [
+   "payments",
+   "lending"
+  ]
+ },
+ {
+  "id": "modules",
+  "t": "Add-on modules",
+  "k": [
+   "module",
+   "modules",
+   "add-on",
+   "addon",
+   "add on",
+   "emerging",
+   "emtech",
+   "products",
+   "solutions",
+   "offer"
+  ],
+  "a": "LIST's add-on modules fall into four groups: Payments, Clearing & Integration; Risk, Compliance & Security; Digital Banking & Customer Experience; and Treasury, Credit & Lending. Ask me about any of these, or tell me what your bank needs.",
+  "f": [
+   "payments",
+   "risk",
+   "digital",
+   "lending"
+  ]
+ },
+ {
+  "id": "payments",
+  "t": "Payments & clearing",
+  "k": [
+   "payment",
+   "payments",
+   "neft",
+   "rtgs",
+   "imps",
+   "abps",
+   "dbtl",
+   "nach",
+   "cts",
+   "positive pay",
+   "clearing",
+   "aeps",
+   "pfms",
+   "iso 20022",
+   "merchant qr",
+   "e-mandate",
+   "emandate",
+   "banl"
+  ],
+  "a": "Payments, clearing and integration modules include EFT (NEFT / RTGS / IMPS), ABPS, DBTL and NACH, RTGS host-to-host, CTS and C-CTS, Positive Pay, electronic clearing, AEPS host-to-host automation, PFMS interface, ISO 20022 migration, Merchant QR and an interface to any banking app. E-Mandate is upcoming.",
+  "f": [
+   "switches",
+   "modules"
+  ]
+ },
+ {
+  "id": "risk",
+  "t": "Risk, compliance & security modules",
+  "k": [
+   "risk",
+   "compliance",
+   "ckyc",
+   "c-kyc",
+   "kyc",
+   "aml",
+   "validation",
+   "lvf",
+   "niyamitra",
+   "regbot",
+   "2fa",
+   "biometric",
+   "regulatory",
+   "rbi"
+  ],
+  "a": "Risk, compliance and security modules include AML, CKYC (CKYC 2.0 upcoming), List Validation Framework, I4C cyber fraud reporting, 2FA using biometrics or QR code, First Information Reporter, risk-based audit, Niyamitra and Regbot.",
+  "f": [
+   "aml",
+   "audit",
+   "i4c"
+  ]
+ },
+ {
+  "id": "digital",
+  "t": "Digital banking",
+  "k": [
+   "mobile",
+   "whatsapp",
+   "chatbot",
+   "app",
+   "passbook",
+   "kiosk",
+   "sms",
+   "onboarding",
+   "fco",
+   "statement",
+   "gst",
+   "doorstep",
+   "agency",
+   "digital"
+  ],
+  "a": "Digital banking modules include mobile banking (financial and non-financial) for Android and iOS, WhatsApp banking or chatbot interface, doorstep or agency banking, pigmy collection on mobile, SMS Mitra, frictionless customer onboarding, e-Passbook, passbook printing kiosk, and statement on email / GST.",
+  "f": [
+   "channels",
+   "modules"
+  ]
+ },
+ {
+  "id": "channels",
+  "t": "Delivery channels",
+  "k": [
+   "channel",
+   "channels",
+   "internet banking",
+   "mobile banking",
+   "assisted",
+   "branch banking",
+   "atm",
+   "eft switch",
+   "pos",
+   "delivery"
+  ],
+  "a": "Customers can bank through the mobile app (secure login, balance inquiry, fund transfers, statements), non-financial internet banking, and assisted branch banking where staff guide customers in person. ATM, POS and KIOSK channels connect through the EFT switch interface.",
+  "f": [
+   "switches",
+   "digital"
+  ]
+ },
+ {
+  "id": "switches",
+  "t": "UPI, IMPS & KYC API",
+  "k": [
+   "upi",
+   "imps switch",
+   "switch",
+   "kyc api",
+   "api",
+   "verification",
+   "integration",
+   "integrate"
+  ],
+  "a": "LIST offers a UPI Switch to route UPI transactions between banking systems, an IMPS Switch for fast fund transfers through banking channels, and a KYC API Stack that connects KYC services with banking workflows for verification and onboarding.",
+  "f": [
+   "payments",
+   "risk"
+  ]
+ },
+ {
+  "id": "lending",
+  "t": "Lending & treasury",
+  "k": [
+   "lending",
+   "los",
+   "origination",
+   "underwriting",
+   "sanction",
+   "loanpro",
+   "recovery",
+   "treasury",
+   "lite",
+   "cr rating",
+   "key facts",
+   "credit appraisal",
+   "credit"
+  ],
+  "a": "For lending, LoanPro is a loan origination system covering application, underwriting and sanction. Other modules include the LIST Investment & Treasury Engine (LITE), loan document printing, loan recovery management, CR rating and Key Facts Statements.",
+  "f": [
+   "docs",
+   "audit"
+  ]
+ },
+ {
+  "id": "docs",
+  "t": "TickPro & DocPro",
+  "k": [
+   "tickpro",
+   "docpro",
+   "helpdesk",
+   "complaint",
+   "document",
+   "dms",
+   "repository",
+   "cms",
+   "ticket"
+  ],
+  "a": "TickPro is a unified helpdesk for every branch and customer query, from first complaint to resolution, with SLA-driven escalation and full auditability. DocPro is a secure, centralized, searchable, version-controlled repository for customer, loan and compliance documents.",
+  "f": [
+   "lending",
+   "modules"
+  ]
+ },
+ {
+  "id": "audit",
+  "t": "Audit & compliance suite",
+  "k": [
+   "audit",
+   "assurepro",
+   "compliancepro",
+   "pulseiq",
+   "ews",
+   "early warning",
+   "circular",
+   "rbia",
+   "concurrent",
+   "revenue audit",
+   "stock audit",
+   "surprise"
+  ],
+  "a": "AssurePro handles risk matrices and real-time audit scheduling. CompliancePro supports multi-authority compliance with live circulars and amendment comparison. PulseIQPro is an early-warning system with 40+ rule engines and proactive alerts. Audit types covered: RBIA, Concurrent, Revenue, Credit, IS, Treasury, Stock, Special and Surprise.",
+  "f": [
+   "aml",
+   "risk"
+  ]
+ },
+ {
+  "id": "aml",
+  "t": "AML & early warning",
+  "k": [
+   "aml",
+   "money laundering",
+   "suspicious",
+   "fraud",
+   "velocity",
+   "behavior",
+   "fiu"
+  ],
+  "a": "The AML module covers limit controls and activity velocity, account behavior analytics, geo-zone monitoring and compliance oversight. The EWS adds a command center, transaction and fund-flow monitoring, and exposure controls. Together they help detect suspicious activity earlier and support audit readiness.",
+  "f": [
+   "i4c",
+   "audit"
+  ]
+ },
+ {
+  "id": "i4c",
+  "t": "Cyber fraud reporting (I4C)",
+  "k": [
+   "i4c",
+   "cyber",
+   "cyber fraud",
+   "fraud reporting",
+   "alert center",
+   "voice response"
+  ],
+  "a": "The I4C cyber fraud reporting system supports faster response from alert to action: cyber coordination with agencies, an alert center, voice response, audit trail, compliance screening against watch-lists, and role-based access control.",
+  "f": [
+   "aml",
+   "security"
+  ]
+ },
+ {
+  "id": "cardrisk",
+  "t": "Card & transaction risk",
+  "k": [
+   "card",
+   "acquiring",
+   "issuer",
+   "issuance",
+   "velocity",
+   "transaction risk",
+   "merchant"
+  ],
+  "a": "Card and transaction risk management covers acquiring (scheme administration, velocity and merchant rules), issuance (issuing hub, compliance screening, alert center) and issuer controls (authorization, geographic and network access rules, file processing).",
+  "f": [
+   "aml",
+   "payments"
+  ]
+ },
+ {
+  "id": "security",
+  "t": "Security",
+  "k": [
+   "security",
+   "secure",
+   "safe",
+   "authentication",
+   "dual",
+   "maker",
+   "checker",
+   "auto lock",
+   "role",
+   "access",
+   "audit trail",
+   "encrypt",
+   "data protection"
+  ],
+  "a": "Security features include login with dual authentication, auto-lock after multiple login failures, role-based access and permissions, authority management, maker-checker with double authorisation, and risk monitoring with an audit trail. Data and application stay centralized in a data center.",
+  "f": [
+   "dr",
+   "risk"
+  ]
+ },
+ {
+  "id": "dr",
+  "t": "Disaster recovery & data center",
+  "k": [
+   "disaster",
+   "recovery",
+   "dr",
+   "backup",
+   "continuity",
+   "data center",
+   "datacenter",
+   "infrastructure",
+   "hosting"
+  ],
+  "a": "LIST provides CBS data center and disaster-recovery infrastructure setup: consulting to architect, build, manage and optimize your data center, DR site and connectivity. Contact us to plan this for your bank.",
+  "f": [
+   "custodian",
+   "demo"
+  ]
+ },
+ {
+  "id": "cx",
+  "t": "Customer experience",
+  "k": [
+   "customer experience",
+   "experience",
+   "service",
+   "relationship",
+   "lifecycle"
+  ],
+  "a": "Customer experience support covers onboarding, support and CMS, complaint tracking, lifecycle visibility and relationship continuity.",
+  "f": [
+   "docs",
+   "digital"
+  ]
+ },
+ {
+  "id": "eco",
+  "t": "LIST ecosystem",
+  "k": [
+   "ecosystem",
+   "marketplace",
+   "partner",
+   "partners",
+   "cloud",
+   "secured operations"
+  ],
+  "a": "The LIST ecosystem has CUSTODIAN Core at the base, with EmTech modules, a partner ecosystem of cloud-native products, secured operations for applications, network and infrastructure, and a secure LIST Marketplace for LIST and its partners.",
+  "f": [
+   "modules",
+   "security"
+  ]
+ },
+ {
+  "id": "why",
+  "t": "Why choose LIST",
+  "k": [
+   "why",
+   "benefit",
+   "benefits",
+   "choose",
+   "advantage",
+   "trust",
+   "experience of",
+   "support"
+  ],
+  "a": "LIST combines deep banking domain expertise, security (2FA, role-based access, audit trails, auto-lock), reliable long-term support and future-ready technology. Most customers who moved to LIST for core banking have continued with us.",
+  "f": [
+   "clients",
+   "demo"
+  ]
+ },
+ {
+  "id": "clients",
+  "t": "Clients",
+  "k": [
+   "client",
+   "clients",
+   "customers",
+   "banks",
+   "reference",
+   "references",
+   "testimonial",
+   "who uses",
+   "case study",
+   "samarth",
+   "rajapur",
+   "pimpri"
+  ],
+  "a": "LIST serves 100+ co-operative banks and credit societies, including Ichalkaranji Co-op Bank, Panchganga Bank, Samarth Sahakari Bank (Solapur), Pimpri Chinchwad Sahakari Bank, Rajapur Urban Co-op Bank, Sangli Urban Bank and Shiv Daulat Bank. See the Clients page for testimonials.",
+  "f": [
+   "why",
+   "demo"
+  ]
+ },
+ {
+  "id": "migrate",
+  "t": "Migration & implementation",
+  "k": [
+   "migrate",
+   "migration",
+   "switch from",
+   "implementation",
+   "implement",
+   "go live",
+   "go-live",
+   "timeline",
+   "how long",
+   "training",
+   "rollout",
+   "onboard bank"
+  ],
+  "a": "LIST handles implementation, data migration, branch rollout and training, with support engineers available after go-live. Pimpri Chinchwad Sahakari Bank, for example, migrated from another vendor to CUSTODIAN across four branches and head office. Timelines depend on your bank, so our team will share one after a discovery conversation.",
+  "f": [
+   "demo",
+   "support"
+  ]
+ },
+ {
+  "id": "support",
+  "t": "Support",
+  "k": [
+   "support",
+   "help",
+   "engineer",
+   "maintenance",
+   "amc",
+   "service desk"
+  ],
+  "a": "LIST has a team of support engineers on standby and a long-term partnership approach. To reach them, call or email us during working hours (Mon-Sat, 9:00 AM to 6:00 PM).",
+  "f": [
+   "contact",
+   "demo"
+  ]
+ },
+ {
+  "id": "price",
+  "t": "Pricing",
+  "k": [
+   "price",
+   "pricing",
+   "cost",
+   "quote",
+   "quotation",
+   "charges",
+   "fee",
+   "budget",
+   "how much"
+  ],
+  "a": "Pricing depends on your bank's size, branches, modules and infrastructure, so I can't give a number here. Our team will prepare a quote after understanding your requirements.",
+  "f": [
+   "demo",
+   "contact"
+  ]
+ },
+ {
+  "id": "demo",
+  "t": "Book a demo",
+  "k": [
+   "demo",
+   "demonstration",
+   "trial",
+   "see it",
+   "show me",
+   "consultation",
+   "meeting",
+   "book"
+  ],
+  "a": "You can book a free personalized demo using the form on the Contact page, or request a callback and our team will call you back. Working hours are Monday-Saturday, 9:00 AM to 6:00 PM.",
+  "f": [
+   "contact"
+  ],
+  "act": "demo"
+ },
+ {
+  "id": "contact",
+  "t": "Contact",
+  "k": [
+   "contact",
+   "phone",
+   "call",
+   "email",
+   "mail",
+   "address",
+   "location",
+   "office",
+   "where",
+   "whatsapp",
+   "reach",
+   "hours",
+   "timing"
+  ],
+  "a": "Phone: +91 95299 23868. Email: bankingsales@listspl.co.in. Working hours: Monday-Saturday, 9:00 AM to 6:00 PM. Offices: LIST Technology Center, Elixa Park, Shahupuri, Kolhapur; and Rahul Complex, Vishrambag, Sangli.",
+  "f": [
+   "demo"
+  ],
+  "act": "demo"
+ }
+]

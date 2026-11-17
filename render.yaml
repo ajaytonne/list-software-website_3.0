@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: list-software-website
+    runtime: node
+    plan: free
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: ADMIN_TOKEN
+        generateValue: true
+      - key: MAIL_TO
+        value: bankingsales@listspl.co.in
+      - key: MAIL_FROM
+        value: LIST Website <no-reply@listspl.co.in>
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        value: 587
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: SHEET_WEBHOOK_URL
+        sync: false
+      - key: HR_MAIL_TO
+        sync: false
